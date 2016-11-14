@@ -2,6 +2,7 @@
 using System.Collections;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
+using UnityStandardAssets.Characters.FirstPerson;
 
 public class PortalBehavior : MonoBehaviour {
 
@@ -10,6 +11,7 @@ public class PortalBehavior : MonoBehaviour {
     public float transitionTime = 2f;   // amount of time for transition / fade
     public Color fadeColor;   // color of screen to fade
     public Image fadeScreen;   // image overlaying screen for the fade
+    public FirstPersonController FPSController;
     
     //private
     private bool _isTranstioning = false;     // boolean to trigger transition
@@ -22,6 +24,7 @@ public class PortalBehavior : MonoBehaviour {
     void onCharacterPortalCollision()
     {
         startFading();
+        FPSController.GetComponent<FirstPersonController>().enabled = false;
     }
 
     void startFading()
