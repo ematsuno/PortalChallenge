@@ -1,0 +1,64 @@
+Initialize engine version: 5.3.5f1 (960ebf59018a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 530 (ID=0x1912)
+    Vendor:   Intel
+    VRAM:     2111 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\aemed\Dropbox\UnityProjects\Horror FPS Project Files\Challenge\portalChallenge_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\aemed\Dropbox\UnityProjects\Horror FPS Project Files\Challenge\portalChallenge_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\aemed\Dropbox\UnityProjects\Horror FPS Project Files\Challenge\portalChallenge_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\aemed\Dropbox\UnityProjects\Horror FPS Project Files\Challenge\portalChallenge_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\aemed\Dropbox\UnityProjects\Horror FPS Project Files\Challenge\portalChallenge_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\aemed\Dropbox\UnityProjects\Horror FPS Project Files\Challenge\portalChallenge_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\aemed\Dropbox\UnityProjects\Horror FPS Project Files\Challenge\portalChallenge_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\aemed\Dropbox\UnityProjects\Horror FPS Project Files\Challenge\portalChallenge_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.171 seconds
+Platform assembly: C:\Users\aemed\Dropbox\UnityProjects\Horror FPS Project Files\Challenge\portalChallenge_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\aemed\Dropbox\UnityProjects\Horror FPS Project Files\Challenge\portalChallenge_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.715417 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 4a5c -> priority: 1 
+  Thread -> id: 4198 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.252881 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 245.
+Total: 0.134910 ms (FindLiveObjects: 0.010816 ms CreateObjectMapping: 0.008112 ms MarkObjects: 0.112075 ms  DeleteObjects: 0.003906 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.441690 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 243.
+Total: 0.153840 ms (FindLiveObjects: 0.030046 ms CreateObjectMapping: 0.007812 ms MarkObjects: 0.109370 ms  DeleteObjects: 0.006009 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.434178 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 245.
+Total: 0.204319 ms (FindLiveObjects: 0.014422 ms CreateObjectMapping: 0.015323 ms MarkObjects: 0.166460 ms  DeleteObjects: 0.007511 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.345539 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 245.
+Total: 0.168563 ms (FindLiveObjects: 0.032150 ms CreateObjectMapping: 0.025539 ms MarkObjects: 0.105765 ms  DeleteObjects: 0.004507 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.460920 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 245.
+Total: 0.185389 ms (FindLiveObjects: 0.040563 ms CreateObjectMapping: 0.015023 ms MarkObjects: 0.124394 ms  DeleteObjects: 0.004807 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.531830 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 243.
+Total: 0.269821 ms (FindLiveObjects: 0.021633 ms CreateObjectMapping: 0.017727 ms MarkObjects: 0.216638 ms  DeleteObjects: 0.012619 ms)
+
